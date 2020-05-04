@@ -4,9 +4,9 @@ The following are a list of notebooks and stuff that I had created while buildin
 
 ## Models Based on VGG16 Conv Base
 
-* [Hyperparameter Tuning The Models With A **VGG16** Base](https://github.com)
+* [Hyperparameter Tuning The Models With A **VGG16** Base](https://github.com/sudoRicheek/Gestures-CNN-Model-Creation-And-FineTuning/blob/master/VGG%20Models/VGG16%20Based%20Model%20Decriptions.pdf)
   
-  Will update the link shortly :P
+  In the above link, you can find the parameters which I tweaked and finally reached a test *F1 Score* of **0.9959**
   
   * [Creating The Preliminary Model](https://github.com/sudoRicheek/Gestures-CNN-Model-Creation-And-FineTuning/blob/master/VGG%20Models/Deep_Neural_Networks_For_Gesture_Recognition.ipynb)
 
